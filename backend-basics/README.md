@@ -4,5 +4,5 @@
 ## Требования
 Python 3.12
 
-##Запуск
-'python main.py'
+## Запуск
+`python main.py`
