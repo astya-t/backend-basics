@@ -5,4 +5,5 @@
 Python 3.12
 
 ## Запуск
-'python main.py'
+```bash
+python main.py
